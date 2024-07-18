@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PTMK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PTMK_jar</output-path>
+    <root id="archive" name="PTMK.jar">
+      <element id="module-output" name="PTMK" />
+    </root>
+  </artifact>
+</component>
